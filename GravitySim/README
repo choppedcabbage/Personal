@@ -1,0 +1,22 @@
+README
+Lucas Tung
+19 Jun 2021
+Gravity Simulator
+
+Files:
+README
+Makefile
+Field.h
+Field.c
+Gravity.c
+
+Functionality:
+Use "./Gravity" in terminal to run
+The program will prompt for an amount of steps, inputting '0' exits the program.
+
+
+Hardware Incorporation:
+Use PSoC Creator and LCD screen
+Constantly step?
+Use a timer to print, maybe just step each time the screen is drawn
+Potentiometer to adjust step rate
